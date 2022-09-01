@@ -4,5 +4,5 @@ Sou **Renan Dantas**, formado em Aquitetura e Urbanismo, cursando MBA de Gestão
 
 * 🌵 Fortaleza - CE, Brasil.
 * 🎓 Formado na Universidade de Fortaleza (UNIFOR)
-* 💻 Curso de programação: Digital College // Curso em Vídeo
+* 💻 Cursos de programação: Digital College // Curso em Vídeo
 
