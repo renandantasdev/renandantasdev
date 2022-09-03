@@ -6,3 +6,5 @@ Sou **Renan Dantas**, formado em Aquitetura e Urbanismo, cursando MBA de Gestão
 * 🎓 Formado na Universidade de Fortaleza (UNIFOR)
 * 💻 Cursos de programação: Digital College // Curso em Vídeo
 
+  ![Snake animation](https://github.com/renandantasdev/renandantasdev/blob/output/github-contribution-grid-snake.svg)
+ 
