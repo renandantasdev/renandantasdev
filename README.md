@@ -38,6 +38,8 @@ Hey, meu nome é **Renan Dantas**, tenho 24 anos e sou formado em Arquitetura, h
 
 ##
 
+##
+
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Contato:   
 
 <div> 
@@ -48,6 +50,8 @@ Hey, meu nome é **Renan Dantas**, tenho 24 anos e sou formado em Arquitetura, h
 </div>
  
    ![Snake animation](https://github.com/renandantasdev/renandantasdev/blob/output/github-contribution-grid-snake.svg)
+
+
  <?---
  vídeo snake:
  https://www.youtube.com/watch?v=MZT37vCQ-4Y
