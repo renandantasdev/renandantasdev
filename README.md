@@ -13,8 +13,8 @@ Hey, meu nome é **Renan Dantas**, tenho 24 anos e sou formado em Arquitetura, h
 ##
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> GitHub status:   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=renandantasdev&theme=dracula)](https://git.io/streak-stats" width='400px'/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=renandantasdev&theme=light)](https://git.io/streak-stats" width='400px'/>&nbsp;
+<img height="160px" width="475px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandantasdev&layout=compact&langs_count=7&theme=light"/></a>
 ##
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Ferramentas:
