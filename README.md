@@ -1,4 +1,7 @@
-## Hello, World! <img src="https://slackmojis.com/emojis/10096-laptop_parrot/download" width="30"/>
+
+# Hello, World! <img src="https://slackmojis.com/emojis/10096-laptop_parrot/download" width="30"/>
+
+<img src="https://user-images.githubusercontent.com/111248556/191600261-8d83a9fc-4014-4197-8303-5d17bcffba59.jpg">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Sobre mim:   
 
