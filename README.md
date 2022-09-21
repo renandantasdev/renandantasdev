@@ -3,15 +3,15 @@
 
 <img src="https://user-images.githubusercontent.com/111248556/191600261-8d83a9fc-4014-4197-8303-5d17bcffba59.jpg">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Sobre mim:   
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> About me:   
 
-Hey, meu nome é **Renan Dantas**, tenho 24 anos e sou formado em Arquitetura, hoje estou fazendo pós graduação em Logística e realizando um sonho de aprender a programar e me tornar um desenvolvedor Full Stack.
+Hey, my name is Renan Dantas, I'm 24 years old and I'm graduated in Architecture, today I'm doing a postgraduate degree in Logistics and I'm living a dream of learning to program and becoming a Full Stack developer.
 
- 🌵 Fortaleza - CE, Brasil. <br>
- 🎓 Formado na Universidade de Fortaleza (UNIFOR). <br>
- 💻 Cursos de programação: Digital College // Curso em Vídeo. <br>
- 🎧 Viciado em Podcast <br>
- 🚲 Bora pedalar?!
+🌵 Fortaleza - CE, Brazil.<br>
+🎓 Graduated from the University of Fortaleza (UNIFOR).<br>
+💻 Programming courses: Digital College // Curso em Vídeo.<br>
+🎧 Podcast addict.<br>
+🚲 Let's ride a bike and have a good coffee.
 
 ##
 
@@ -20,14 +20,14 @@ Hey, meu nome é **Renan Dantas**, tenho 24 anos e sou formado em Arquitetura, h
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Ferramentas:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Tools:
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Estudando:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Learning:
 
 <p float="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -41,7 +41,7 @@ Hey, meu nome é **Renan Dantas**, tenho 24 anos e sou formado em Arquitetura, h
 
 ##
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Contato:   
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Contact:   
 
 <div> 
   <a href="https://instagram.com/renan_daantas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
