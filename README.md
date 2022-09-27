@@ -47,8 +47,10 @@ Hey, my name is Renan Dantas, I'm 24 years old and I'm graduated in Architecture
   <a href="https://instagram.com/renan_daantas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renandantasdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <https://pt.stackoverflow.com/users/304118/renan-dantas?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  <a href="https://www.freecodecamp.org/renandantasdev" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" target="_blank"></a>
   <a href="mailto:renandantas.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+
  
    ![Snake animation](https://github.com/renandantasdev/renandantasdev/blob/output/github-contribution-grid-snake.svg)
 
